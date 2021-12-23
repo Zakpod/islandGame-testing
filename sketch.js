@@ -7,7 +7,7 @@ var c1, c2, c3, x = 510, y = 100, x1 = 510, y1 = 10;
 
 var invisibleground, center, endImage;
 var gameState = "notStarted";
-var energyCount = 5;
+var energyCount = 9;
 var islandGroup;
 function preload() {
   endImage = loadImage("gameOver.png");
